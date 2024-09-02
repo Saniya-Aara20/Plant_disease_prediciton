@@ -8,5 +8,5 @@ Step by Step procedure for classification using CNN
 4. Set the required image size and train the model
 5. The model is trained with 4 layers
 6. Fit the model , run 20 epochs
-7. plot the accuracy loss and validation loss to check the performance of the model
+7. plot the model accuracy and loss to check the performance of the model
 8. Generate confusion matrix
